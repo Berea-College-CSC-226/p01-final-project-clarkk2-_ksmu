@@ -5,7 +5,7 @@
 ❗️Exclamation Marks ❗️indicate action items; you should remove these emoji as you complete/update the items which 
   they accompany. (This means that your final README should have no ❗️in it!)
 
-❗️**Author(s)**: Your name(s) here
+❗️**Author(s)**: Naod Ksmu, Kamau clark
 
 ❗️**Google Doc Link**: Your link here
 
@@ -26,8 +26,8 @@
   - Tables in markdown are not easy, so we suggest saving your CRC card as an image and including the image(s) in the 
     README. You can do this by saving an image in the repository and linking to it. See the sample CRC card below - 
     and REPLACE it with your own:
-  
-![Don't leave me in your README!](image/crc.png "Image of CRC card as an example. Upload your CRC card(s) in place of this one. ")
+
+![Don't leave me in your README!](image/crc.png "Image of CRC card as an example. Upload your CRC card(s) in place of this one.")
 
 ❗️**Branches**: This project will **require** effective use of git. 
 
@@ -37,7 +37,7 @@ into your own, following the process we've discussed in previous assignments, th
 
 ```
     Branch 1 starting name: _____________
-    Branch 2 starting name: _____________
+    Branch 2 starting name: _Ksmu2312_
 ```
 
 ### References 
